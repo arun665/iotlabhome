@@ -336,6 +336,219 @@ font-weight:bold;
 /* div 3 creator end */
 
 
+/* student 2 start */
+
+#student2{
+    background-image: url('student.png');
+    border-color: 1px solid blue;
+    border-radius: 65px;
+    height:500px;
+    width:100%;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    padding:4%;
+    
+    
+    
+        }
+        #headervl2{
+            padding-left:5%;
+        }
+        
+        .vl2 {
+            border-left: 8px solid grey;
+            height:8vw;
+            vertical-align: top;
+            
+          }
+    #studentbox2{
+        PADDING:3%;background-color:hsl(0, 0%, 100% , 0.6);
+        border-radius:30px;
+        width:95%;
+    
+        position: relative;
+       margin-left: auto;
+       margin-right:auto;
+        padding-bottom:3%;
+        
+    
+    
+       
+    top:310px;
+    
+    }
+    #student2row{
+        float:right;
+        text-align: right;
+        padding-top:5px;
+    font-weight:bold;
+    }
+    #studentboxheading2{
+        font-size:2vw;
+        float:right;   font-weight:bold;
+    }
+    #headervl2{
+        padding-left:2%;
+    }
+    
+#headerp{
+font-size:2vw;
+}
+
+
+
+/* student 2 end */
+
+/* collage start */
+
+
+
+#collage{
+    background-image: url('collages.png');
+    border-color: 1px solid blue;
+    border-radius: 50px;
+    height:235px;
+    width:100%;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    padding:1%;
+    margin-bottom: 5%;;
+    
+    
+        }
+        
+        
+        .vl3 {
+            border-left: 8px solid grey;
+            height:6vw;
+            
+        
+          }
+    #collagebox2{
+        PADDING:1%;background-color:hsl(0, 0%, 100% , 0.6);
+        border-radius:30px;
+        width:95%;
+    
+        position: relative;
+       margin-left: auto;
+       margin-right:auto;
+    
+    
+       
+    top:125px;
+    
+    }
+    #collage2row{
+        float:right;
+        text-align: right;
+        padding-top:10%;
+   
+    
+    }
+    #collageboxheading2{
+        font-size:2vw;
+        float:right;
+        vertical-align: middle;
+        font-weight:bold;
+    }
+    #headervl3{
+        padding-left:2%;
+    }
+    
+#headerp3{
+font-size:1.5vw;
+}
+#table4{
+    overflow: hidden;
+}
+
+
+
+
+/* collage end */
+
+
+
+/* PROFESSIONALS start */
+
+
+
+#professionals{
+    background-image: url('professionals.png');
+    border-color: 1px solid blue;
+    border-radius: 50px;
+    height:235px;
+    width:100%;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    padding:2%;
+    
+    
+    
+
+        }
+
+        #professionalsbox2{
+            PADDING:1%;background-color:hsl(0, 0%, 100% , 0.6);
+            border-radius:30px;
+            width:95%;
+        
+            position: relative;
+           margin-left: auto;
+           margin-right:auto;
+    
+     
+        
+        
+           
+        top:120px;
+        
+        }
+
+        
+        #container4{
+            margin-bottom:10%;
+            margin-top:10%;
+        }
+        
+        #headingdiv{
+            width: 100%;;
+            text-align: center;
+            align-items: center;
+margin-left: auto;
+margin-right: auto;
+        }
+
+        .heading2{
+
+            text-align:center;
+font-weight: bold;
+font-size: 4vw;
+        }
+        
+        .heading3{
+text-align: center;
+font-weight: bold;
+font-size: 20px;
+        }
+        #professionalsheading2{
+            font-size:2vw;
+            font-weight:bold;
+        }
+        #containertemp{
+            display:none;
+        }
+
+        
+        #container5{
+            margin-bottom:10%;
+        }
+/* professioanl end */
+
+
 
     }
 
@@ -371,6 +584,10 @@ font-weight:bold;
     font-weight:bold;
 
 }
+
+
+
+
 
     }
 
