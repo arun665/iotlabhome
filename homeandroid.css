@@ -109,7 +109,8 @@
        /* div 1 header */
 
        #student{
-        background-image: url('homepageheader.png');
+        background-image: url('homepageheader.gif');
+        background-repeat: repeat;
         border-color: 1px solid blue;
         border-radius: 50px;
         height:385px;
