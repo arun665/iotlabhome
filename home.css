@@ -211,6 +211,7 @@ border-radius: 25px;
 }
 #headerp{
     font-size:1.6vw;
+    font-weight: bold;
 }
 #buttons{
     position: relative;
@@ -304,7 +305,7 @@ overflow:hidden;
     font-weight:bold;
 }
 #legendheadingdiv{
-    margin-right:20%;
+    margin-right:25%;
     margin-top:2px;
 }
 
@@ -313,7 +314,7 @@ overflow:hidden;
        width:95%;
    }
    #tempimg1{
-    height:220px;;width:25%;
+    height:205px;;width:28%;
     position:absolute;overflow:visible;top:-80px;
     RIGHT:5%;
    
@@ -403,7 +404,7 @@ overflow:hidden;
             
           }
     #studentbox2{
-        PADDING:3%;background-color:hsl(0, 0%, 100% , 0.6);
+        PADDING:3%;background-color:hsl(0, 0%, 100% , 0.8);
         border-radius:30px;
         width:95%;
     
@@ -471,7 +472,7 @@ font-size:1.5vw;
         
           }
     #collagebox2{
-        PADDING:1%;background-color:hsl(0, 0%, 100% , 0.6);
+        PADDING:1%;background-color:hsl(0, 0%, 100% , 0.8);
         border-radius:30px;
         width:95%;
     
@@ -487,15 +488,18 @@ font-size:1.5vw;
     #collage2row{
         float:right;
         text-align: right;
-        padding-top:10%;
+        padding-top:12%;
    
     
     }
     #collageboxheading2{
         font-size:1.5vw;
+        padding-top:10%;
         float:right;
-        vertical-align: middle;
+
         font-weight:bold;
+        margin-top:auto;
+        margin-bottom: auto;
     }
     #headervl3{
         padding-left:2%;
@@ -503,6 +507,7 @@ font-size:1.5vw;
     
 #headerp3{
 font-size:1.1vw;
+margin-top:2%;
 }
 #table4{
     overflow: hidden;
@@ -536,7 +541,7 @@ font-size:1.1vw;
         }
 
         #professionalsbox2{
-            PADDING:1%;background-color:hsl(0, 0%, 100% , 0.6);
+            PADDING:1%;background-color:hsl(0, 0%, 100% , 0.8);
             border-radius:30px;
             width:95%;
         
@@ -558,6 +563,7 @@ font-size:1.1vw;
 
         #professionalsheading2{
             font-size:1.5vw;
+            font-weight: bold;
         }
 
         
@@ -576,6 +582,7 @@ font-size:1.1vw;
             align-items: center;
 margin-left: auto;
 margin-right: auto;
+margin-bottom:5%;
         }
 
         .heading2{

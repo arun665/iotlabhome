@@ -124,7 +124,7 @@
         
         
 #studentbox{
-    PADDING:1%;background-color:hsl(0, 0%, 100% , 0.6);border-radius:40px;
+    PADDING:1%;background-color:hsl(0, 0%, 100% , 0.8);border-radius:40px;
     width:100%;
     position: relative;
     
@@ -290,7 +290,7 @@ text-align:center;
 }
 #legend2{
     text-align: center;
-    height:200px;width:150px;
+    height:200px;width:180px;
     margin-left:auto;
     margin-right:auto;
 
@@ -361,19 +361,18 @@ margin-bottom: 8%;
             
           }
     #studentbox2{
-        PADDING:3%;background-color:hsl(0, 0%, 100% , 0.6);
+        PADDING:1%;background-color:hsl(0, 0%, 100% , 0.8);
         border-radius:30px;
         width:95%;
     
         position: relative;
        margin-left: auto;
        margin-right:auto;
-        padding-bottom:3%;
         
     
     
        
-    top:80px;
+    top:100px;
     
     }
     #student2row{
@@ -385,6 +384,8 @@ margin-bottom: 8%;
     #studentboxheading2{
         font-size:6vw;;
     text-align:center;
+    margin-top:auto;
+    margin-bottom: auto;
     }
     #headervl2{
         display:none;
@@ -411,7 +412,7 @@ font-size:5vw;
 #collage{
     background-image: url('collages.png');
     border-color: 1px solid blue;
-    border-radius: 50px;
+    border-radius: 30px;
     height:180px;
     width:100%;
     background-size: cover;
@@ -431,9 +432,9 @@ font-size:5vw;
         
           }
     #collagebox2{
-        PADDING:1%;background-color:hsl(0, 0%, 100% , 0.6);
+        PADDING:1%;background-color:hsl(0, 0%, 100% , 0.8);
         border-radius:30px;
-        width:85%;
+        width:95%;
     
         position: relative;
        margin-left: auto;
@@ -457,7 +458,8 @@ font-size:5vw;
         
         font-size:6vw;
         text-align:center;
-
+        margin-top:auto;
+        margin-bottom: auto;
     }
 
     #headervl3{
@@ -487,13 +489,14 @@ display:none;
 #professionals{
     background-image: url('professionals.png');
     border-color: 1px solid blue;
-    border-radius: 50px;
+    border-radius: 30px;
     height:180px;
     width:92%;
     background-size: cover;
     margin-left: auto;
     margin-right: auto;
     padding:1%;
+    width:100%;
     
     
     
@@ -501,7 +504,7 @@ display:none;
         }
 
         #professionalsbox2{
-            PADDING:1%;background-color:hsl(0, 0%, 100% , 0.6);
+            PADDING:1%;background-color:hsl(0, 0%, 100% , 0.8);
             border-radius:30px;
             width:95%;
         
@@ -519,6 +522,8 @@ display:none;
         #professionalsheading2{
             font-size:6vw;
             text-align: center;
+            margin-top:auto;
+            margin-bottom: auto;
         }
 
         
@@ -534,6 +539,8 @@ display:none;
             align-items: center;
 margin-left: auto;
 margin-right: auto;
+margin-bottom: 12%;
+
         }
 
         .heading2{
